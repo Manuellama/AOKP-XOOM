@@ -26,10 +26,9 @@
   <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" remote="cm" revision="jellybean" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="jellybean" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
-  <project path="dalvik" name="AOKP/platform_dalvik" remote="aokp" revision="jb" />
-  <project path="development" name="AOKP/platform_development" remote="aokp" revision="jb" />
-  <project path="device/asus/grouper" name="AOKP/android_device_asus_grouper" remote="aokp" revision="jb" />
-  <project path="device/asus/tf101" name="AOKP/device_asus_tf101" remote="aokp" revision="jb" />
+  <project path="dalvik" name="AOKP/dalvik" remote="aokp" revision="jb" />
+  <project path="development" name="AOKP/development" remote="aokp" revision="jb" />
+   <project path="device/asus/tf101" name="AOKP/device_asus_tf101" remote="aokp" revision="jb" />
    <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
   <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="aokp" revision="jb" />
   <project path="device/samsung/vibrantmtd" name="AOKP/device_samsung_vibrantmtd" remote="aokp" revision="jb" />
