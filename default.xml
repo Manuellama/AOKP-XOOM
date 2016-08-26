@@ -32,8 +32,7 @@
    <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
   <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="aokp" revision="jb" />
   <project path="device/samsung/vibrantmtd" name="AOKP/device_samsung_vibrantmtd" remote="aokp" revision="jb" />
-  <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
-  <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
+   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
   <project path="external/aac" name="platform/external/aac" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
